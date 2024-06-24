@@ -8,7 +8,7 @@ import certification1 from "../assets/certifications/certificacion1.jpg";
 import certification2 from "../assets/certifications/certificacion2.jpg";
 import certification3 from "../assets/certifications/certificacion3.png";
 
-export const ABOUT_TEXT = `He explorado diversas áreas profesionales, desde roles administrativos hasta atención al cliente. También sigo aprendiendo y participando en cursos y proyectos de programación, desarrollo de videojuegos, experiencias AR/VR y blockchain. He completado cursos de programación Full Stack en Argentina Programa y Oracle Next Education (Alura Latam). Mi experiencia laboral ha fortalecido mis habilidades interpersonales, como el trabajo colaborativo, la gestión de conflictos y la empatía, esenciales para establecer relaciones sólidas con colegas y clientes. Desde hace más de 1 año trabajo como backend con base de datos en el sistema nacional GDE.`;
+export const ABOUT_TEXT = `He explorado diversas áreas profesionales, desde roles administrativos hasta atención al cliente. También sigo aprendiendo y participando en cursos y proyectos de programación, desarrollo de videojuegos, experiencias AR/VR y blockchain. He completado cursos de programación Full Stack en Argentina Programa y Oracle Next Education (Alura Latam). Mi experiencia laboral ha fortalecido mis habilidades interpersonales, como el trabajo colaborativo, la gestión de conflictos y la empatía, esenciales para establecer relaciones sólidas con colegas y clientes. Hace más de 2 años estudio pogramación y hace más de 1 año trabajo como backend con base de datos para el sistema nacional GDE.`;
 
 export const CERTIFICATIONS = [
   {
