@@ -12,4 +12,3 @@ Este proyecto es un portafolio personal construido con React y Vite, utilizando 
 
 -ESLint: Herramienta de análisis estático para encontrar y solucionar problemas en el código JavaScript.
 
--HMR (Hot Module Replacement): Tecnología que permite reemplazar módulos en tiempo de ejecución sin recargar la página completa.
