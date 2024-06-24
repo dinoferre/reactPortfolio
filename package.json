@@ -2,7 +2,7 @@
   "name": "reactportfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dinoferre.github.io/portfolio-react-2024/dist",
+  "homepage": "https://dinoferre.github.io/reactPortfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
