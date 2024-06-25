@@ -7,3 +7,7 @@
 :root {
   font-family: "Inter", sans-serif;
 }
+
+.my-10-custom {
+  margin-bottom: 0.1rem; /* Ajusta este valor según sea necesario */
+}
