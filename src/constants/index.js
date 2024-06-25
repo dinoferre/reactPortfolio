@@ -3,7 +3,7 @@ import project2 from "../assets/projects/Meteoro.png";
 import project3 from "../assets/projects/Memory-game.jpg";
 import project4 from "../assets/projects/E-commerce.png";
 import project5 from "../assets/projects/todoList.png";
-import project6 from "../assets/projects/Encriptador.png";
+import project6 from "../assets/projects/Buscador.png";
 import certification1 from "../assets/certifications/certificacion1.jpg";
 import certification2 from "../assets/certifications/certificacion2.jpg";
 import certification3 from "../assets/certifications/certificacion3.png";
@@ -57,6 +57,15 @@ export const PROJECTS = [
     deploy: "https://dinoferre.github.io/Meteoro-Dino-Aframe"
   },
   {
+    title: "Buscador de Usuarios GitHub",
+    image: project6,
+    description:
+      "Utilicé Vue 3 para desarrollar el proyecto, integrando JavaScript asíncrono para manejar peticiones a la API de GitHub y mantener actualizada la interfaz de usuario. Aproveché la reactividad, empleando métodos, eventos, renderizado condicional, atributos dinámicos, directivas, y transiciones para optimizar el rendimiento y la experiencia de usuario.",
+    technologies: ["VUE3", "JavaScript"],
+    github: "https://github.com/dinoferre/BuscadorUsuariosGitHub",
+    deploy: "https://dinoferre.github.io/BuscadorUsuariosGitHub"
+  },
+  {
     title: "Memory Game",
     image: project3,
     description:
@@ -83,14 +92,6 @@ export const PROJECTS = [
     github: "https://github.com/dinoferre/Lista-De-Tareas",
     deploy: "https://dinoferre.github.io/Lista-De-Tareas"
   },
-  {
-    title: "Encriptador",
-    image: project6,
-    description:
-      "La página web tiene campos para insertar el texto que se va a encriptar o desencriptar, y el usuario puede elegir entre las dos opciones. El resultado se muestra en la pantalla mediante manipulación del DOM con JavaScript.",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/dinoferre/Encriptador",
-    deploy: "https://dinoferre.github.io/Encriptador"
-  },
+  
 ];
 
