@@ -15,7 +15,7 @@ export const CERTIFICATIONS = [
     title: "Unity - UTN/BA",
     image: certification1,
     description:
-      "El objetivo de este curso fue adquirir conocimientos en el diseño y comprender el proceso completo de producción de un videojuego, desde la concepción inicial y la preproducción hasta el desarrollo y mantenimiento final. Los objetivos específicos incluyen la capacidad de desarrollar aplicaciones de videojuegos para dispositivos móviles y dominar la programación e interactividad en Unity 3D y Blender.",
+      "El objetivo de este curso fue adquirir conocimientos en el diseño y comprender el proceso completo de producción de un videojuego, desde la concepción inicial y la preproducción hasta el desarrollo y mantenimiento final. Los objetivos específicos incluyeron la capacidad de desarrollar aplicaciones de videojuegos para dispositivos móviles y dominar la programación e interactividad en Unity 3D y Blender.",
     technologies: ["Unity", "Blender", "C#", "Unity-Play"],
     deploy: "https://drive.google.com/file/d/1soGUd_AfXZ6kQVvF1My4HOE6T-qwOdCq/view"
   },
@@ -23,7 +23,7 @@ export const CERTIFICATIONS = [
     title: "ONE Alura Latam (ORACLE)",
     image: certification2,
     description:
-      "El programa ONE comienza con la enseñanza de la lógica de programación y el desarrollo personal, enfocándose en el cambio de mentalidad y habilidades de comunicación. Luego, se especializa en Front-End con React y JavaScript y en el Back-End, Java y Spring Framework para optimizar el desarrollo de aplicaciones orientadas a objetos.",
+      "El programa ONE comenzó con la enseñanza de la lógica de programación y el desarrollo personal, enfocándose en el cambio de mentalidad y habilidades de comunicación. Luego, se especializó en Front-End con React y JavaScript y en el Back-End, Java y Spring Framework para optimizar el desarrollo de aplicaciones orientadas a objetos.",
     technologies: ["Unity", "Blender", "C#", "Unity-Play"],
     deploy: "https://app.aluracursos.com/program/certificate/e41f2042-c3c1-4433-93f6-126c845f13fb"
   },
