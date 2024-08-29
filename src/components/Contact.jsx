@@ -35,7 +35,7 @@ const Contact = () => {
           >
             Dino Ferré
           </motion.span>
-          |(2024) &#169;
+          &nbsp;(2024) &#169;
           <motion.span
             className="ml-2 cursor-pointer"
             whileHover={{ y: -2 }}
