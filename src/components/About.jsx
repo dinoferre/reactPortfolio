@@ -1,5 +1,5 @@
 import { ABOUT_TEXT } from "../constants";
-import CV from "../assets/Dino_Ferre_CV.pdf";
+import CV from "../assets/CV_Dino_Ferre.pdf";
 import { motion } from "framer-motion";
 
 const About = () => {
