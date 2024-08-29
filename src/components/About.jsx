@@ -42,7 +42,7 @@ const About = () => {
                         whileHover={{ x: -10 }}
                         className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 hover:from-pink-400 hover:via-slate-600 hover:to-purple-600 text-white py-2 px-4 rounded"
                     >
-                        Descargar CV
+                        Descargar Curriculum
                     </motion.button>
                 </motion.a>
             </motion.div>
