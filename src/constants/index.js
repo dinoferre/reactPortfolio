@@ -7,10 +7,19 @@ import project6 from "../assets/projects/Buscador.png";
 import certification1 from "../assets/certifications/certificacion1.jpg";
 import certification2 from "../assets/certifications/certificacion2.jpg";
 import certification3 from "../assets/certifications/certificacion3.png";
+import certification4 from "../assets/certifications/certificacion4.png";
 
 export const ABOUT_TEXT = `He explorado diversas áreas profesionales, desde roles administrativos hasta atención al cliente. También sigo aprendiendo y participando en cursos y proyectos de programación, desarrollo de videojuegos, experiencias AR/VR y blockchain. He completado cursos de programación Full Stack en Argentina Programa y Oracle Next Education (Alura Latam). Mi experiencia laboral ha fortalecido mis habilidades interpersonales, como el trabajo colaborativo, la gestión de conflictos y la empatía, esenciales para establecer relaciones sólidas con colegas y clientes. Llevo más de 2 años estudiando pogramación y hace más de 1 año trabajo como backend con base de datos para el sistema nacional GDE.`;
 
 export const CERTIFICATIONS = [
+  {
+    title: "NodeJS",
+    image: certification4,
+    description:
+      "El objetivo de este curso fue aprender a construir aplicaciones web completas con Node.js, abarcando tanto el frontend como el backend. Se abordaron temas como la creación de servidores web, manejo de rutas, desarrollo de API RESTful, conexión con bases de datos, y el uso de tecnologías modernas como Express.js para el desarrollo de aplicaciones escalables y eficientes.",
+    technologies: ["Unity", "Blender", "C#", "Unity-Play"],
+    deploy: "https://drive.google.com/file/d/1aFnElDUheDjzm7rZjbbkgJ1_DjlP7kju/view"
+  },
   {
     title: "Unity - UTN/BA",
     image: certification1,
